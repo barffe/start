@@ -1,4 +1,4 @@
 # start
 * the first repository.
-* objects will related to web devlopment in this repi.
+* objects will related to web devlopment in this repo.
 * codes projects and documents will be added soon.
